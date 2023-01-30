@@ -104,6 +104,15 @@ strong{
     outline-offset: 3px;
 }
 
+
+.logo{
+      outline: 3px solid var(--clr-accent);
+    outline-offset: 3px;
+    color: var(--clr-accent);
+    
+}
+
+
 /*  Links.... come back */
 /*:focus{
     outline: 3px solid var(--clr-accent);
